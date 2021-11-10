@@ -1,6 +1,6 @@
-# strete_workout
+# yoga_app_flutter
 
-A new Flutter project.
+A UI Yoga App Project with Flutter.
 
 ## Getting Started
 
